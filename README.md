@@ -12,8 +12,8 @@ For a local install, in your `package.json` scripts field a similar line can be 
 
 ```json
 {
-    scripts: {
-        multijshint: ls ./lib/*.js | multijshint
+    "scripts": {
+        "multijshint": "ls ./lib/*.js | multijshint"
     }
 }
 ```
