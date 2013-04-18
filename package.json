@@ -1,0 +1,21 @@
+{
+  "name": "multijshint",
+  "version": "0.0.1",
+  "description": "Avoid making lots of node processes to JSHint a bunch of files. Pipe a file list to this utility.",
+  "main": "index.js",
+  "dependencies": {
+    "byline": "~2.0.3",
+    "colors": "~0.6.0-1",
+    "jshint": "~1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "jshint"
+  ],
+  "author": "Mark Stanley Everitt",
+  "license": "MIT"
+}
