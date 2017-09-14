@@ -1,5 +1,7 @@
 # multijshint
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/qubyte/multijshint.svg)](https://greenkeeper.io/)
+
 This is a simple utility that allows a single node instance to process a list of files through JSHint. This is useful for large projects that may need to test many files, and feel the lag from booting a node process for each.
 
 Pipe this utility a list of file paths and it will do the rest. For example, with a global installation:
